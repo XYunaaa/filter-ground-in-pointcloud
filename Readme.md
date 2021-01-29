@@ -5,6 +5,7 @@ Five filter ground methods；
 
 
 ## Evalution
+![image](https://github.com/XYunaaa/filter-ground-in-pointcloud/blob/master/eva.png)
 
 We merge five different ground labels in SemanticKITTI (i.e., road, parking, side walk, other ground and terrain) as
 ground truth. Table II shows the results of the five different ground filters adopted on the total 11 sequences(00-10) of
